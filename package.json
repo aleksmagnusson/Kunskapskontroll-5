@@ -1,0 +1,23 @@
+{
+  "name": "kunskapskontroll-5",
+  "description": "```\r Welcome to the Cat API gallery.\r ```",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleks Magnusson",
+  "license": "ISC",
+  "keywords": [
+    "cats",
+    "API",
+    "gallery",
+    "Node",
+    "JS"
+  ],
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
